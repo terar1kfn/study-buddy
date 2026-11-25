@@ -1,0 +1,28 @@
+name: Assemble original Study Buddy v0.7 videos
+on:
+  push:
+    branches: [student-beta-v07]
+    paths: ['.media-transfer/ready']
+permissions:
+  contents: write
+jobs:
+  assemble:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+      - name: Restore and verify the original MP4 files
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p assets/video
+          cat .media-transfer/v1/part-* > assets/video/impression-v1.mp4
+          cat .media-transfer/v2/part-* > assets/video/impression-v2-preview.mp4
+          test "$(git hash-object assets/video/impression-v1.mp4)" = 96c77879afa0d26b8aae5b66185ac23e883a919d
+          test "$(git hash-object assets/video/impression-v2-preview.mp4)" = 2cc5019f2ad5e4cf47d36d4f5fef75c14c1305b8
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- assets/video/impression-v1.mp4 assets/video/impression-v2-preview.mp4
+          git rm -r -- .media-transfer
+          git commit -m "Restore verified original Study Buddy video assets"
+          git push origin HEAD:refs/heads/student-beta-v07
