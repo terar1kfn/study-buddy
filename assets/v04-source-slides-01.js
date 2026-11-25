@@ -1,0 +1,14 @@
+(SOURCE_SLIDES["gypsum"] ||= {})[1] = "assets/images/c9cceec1198ae72a91243ddc.webp";
+(SOURCE_PHOTOS["gypsum"] ||= {})[1] = "assets/images/b085a3fedf5c7158310582fb.webp";
+(SOURCE_SLIDES["gypsum"] ||= {})[2] = "assets/images/aaf8e091cdabbc36877ff8f8.webp";
+(SOURCE_PHOTOS["gypsum"] ||= {})[2] = "assets/images/8a22e8cff4c8af67d6719431.webp";
+(SOURCE_SLIDES["gypsum"] ||= {})[3] = "assets/images/cea8e4cbf59043fe720bc399.webp";
+(SOURCE_PHOTOS["gypsum"] ||= {})[3] = "assets/images/f4343aabf29c008e557d63ab.webp";
+(SOURCE_SLIDES["gypsum"] ||= {})[4] = "assets/images/532d8ca086e83027f5ad018e.webp";
+(SOURCE_SLIDES["gypsum"] ||= {})[5] = "assets/images/ce994f2645cc5f55bb2be916.webp";
+(SOURCE_PHOTOS["gypsum"] ||= {})[5] = "assets/images/ff6f86a9b56b27f0658dfaf3.webp";
+(SOURCE_SLIDES["gypsum"] ||= {})[6] = "assets/images/0d308edbded188e51758d377.webp";
+(SOURCE_SLIDES["gypsum"] ||= {})[7] = "assets/images/bfe0fcc750dc28cdb6f233a2.webp";
+(SOURCE_SLIDES["gypsum"] ||= {})[8] = "assets/images/8db3b2db135da1c67cad3a8e.webp";
+(SOURCE_SLIDES["gypsum"] ||= {})[9] = "assets/images/f4aa27410c784bcf294ff7da.webp";
+(SOURCE_PHOTOS["gypsum"] ||= {})[9] = "assets/images/b1c0945d5384c0a3b413f886.webp";

@@ -1,0 +1,16 @@
+(SOURCE_SLIDES["lab-waxes"] ||= {})[9] = "assets/images/2d899d876a102e4ca767bce7.webp";
+(SOURCE_SLIDES["lab-waxes"] ||= {})[10] = "assets/images/2705fc0f047b5b9a170b3596.webp";
+(SOURCE_SLIDES["lab-waxes"] ||= {})[11] = "assets/images/5e62907c3b223bb321e1c726.webp";
+(SOURCE_SLIDES["lab-waxes"] ||= {})[12] = "assets/images/9bf25878263773791f361e98.webp";
+(SOURCE_SLIDES["lab-waxes"] ||= {})[13] = "assets/images/3e823f953d6de26f4639a42b.webp";
+(SOURCE_SLIDES["lab-waxes"] ||= {})[14] = "assets/images/3691890b53f49369aaf716a7.webp";
+(SOURCE_SLIDES["lab-preventive"] ||= {})[1] = "assets/images/312b30adab532e7b078f7dcd.webp";
+(SOURCE_SLIDES["lab-preventive"] ||= {})[2] = "assets/images/f29c5cbab20fe10d5eaebb23.webp";
+(SOURCE_SLIDES["lab-preventive"] ||= {})[3] = "assets/images/b986c163065aabd2cf9bffdc.webp";
+(SOURCE_SLIDES["lab-preventive"] ||= {})[4] = "assets/images/9a36c1c70b489b10d8cbb680.webp";
+(SOURCE_SLIDES["lab-preventive"] ||= {})[5] = "assets/images/7492f17a564196a0f62f1e34.webp";
+(SOURCE_SLIDES["lab-preventive"] ||= {})[6] = "assets/images/dc51737c885b1afac532543c.webp";
+(SOURCE_SLIDES["lab-preventive"] ||= {})[7] = "assets/images/2840a02e8379a4ea231b8add.webp";
+(SOURCE_SLIDES["lab-preventive"] ||= {})[8] = "assets/images/e7d86069caae63cdfb3182d1.webp";
+(SOURCE_SLIDES["lab-preventive"] ||= {})[9] = "assets/images/e29ed853fd85e9fb5aabad81.webp";
+(SOURCE_SLIDES["lab-preventive"] ||= {})[10] = "assets/images/7ba16a8b38f3a53510e32cef.webp";

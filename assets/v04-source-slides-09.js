@@ -1,0 +1,17 @@
+(SOURCE_SLIDES["lab-cements"] ||= {})[5] = "assets/images/fea6e091423c8683ee868a96.webp";
+(SOURCE_SLIDES["lab-cements"] ||= {})[6] = "assets/images/f646492407129c29669c0573.webp";
+(SOURCE_SLIDES["lab-cements"] ||= {})[7] = "assets/images/03c77f748fd96eaff4847e87.webp";
+(SOURCE_SLIDES["lab-cements"] ||= {})[8] = "assets/images/643b56ce59a7480a96a23995.webp";
+(SOURCE_SLIDES["lab-cements"] ||= {})[9] = "assets/images/71dc23df6adb80e11a236187.webp";
+(SOURCE_SLIDES["lab-cements"] ||= {})[10] = "assets/images/c27c31eda2dec2673366881b.webp";
+(SOURCE_SLIDES["lab-cements"] ||= {})[11] = "assets/images/6e5f250fb0826a783896cecf.webp";
+(SOURCE_SLIDES["lab-cements"] ||= {})[12] = "assets/images/140e8c717167f7cf6b87023f.webp";
+(SOURCE_SLIDES["lab-cements"] ||= {})[13] = "assets/images/8ef2c39e406ff4cf4b62b4ef.webp";
+(SOURCE_SLIDES["lab-waxes"] ||= {})[1] = "assets/images/ba57889fe8af36b181e4e67a.webp";
+(SOURCE_SLIDES["lab-waxes"] ||= {})[2] = "assets/images/ffe6696d13f8051986035d6a.webp";
+(SOURCE_SLIDES["lab-waxes"] ||= {})[3] = "assets/images/d3858fff3afc63afc25f30c6.webp";
+(SOURCE_SLIDES["lab-waxes"] ||= {})[4] = "assets/images/9e26956c7406b580f6314ebe.webp";
+(SOURCE_SLIDES["lab-waxes"] ||= {})[5] = "assets/images/3f2785c1d120c6dfe23d7b36.webp";
+(SOURCE_SLIDES["lab-waxes"] ||= {})[6] = "assets/images/6dbc7159e49f3cefe7e21515.webp";
+(SOURCE_SLIDES["lab-waxes"] ||= {})[7] = "assets/images/5103a4413c301362ff00c106.webp";
+(SOURCE_SLIDES["lab-waxes"] ||= {})[8] = "assets/images/330a73af9ab36c1ebe64ae8f.webp";
